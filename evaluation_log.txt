@@ -1,0 +1,10 @@
+INFO:root:GPU memory growth enabled
+INFO:root:Test dataset loaded
+INFO:root:Model loaded from G:/PlantDisease\plantifydr_mobilenetv2.h5
+INFO:root:Test Accuracy: 0.5852
+INFO:root:Precision: 0.8106
+INFO:root:Recall: 0.5852
+INFO:root:Mean IoU: 0.4640
+INFO:root:mAP: 0.8344
+INFO:root:MSE: 0.0187
+INFO:root:Confusion matrix saved

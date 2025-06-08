@@ -1,0 +1,74 @@
+INFO:root:Number of classes: 33
+INFO:root:Class AppleBlackRot: 3107 images
+INFO:root:Class AppleHealthy: 4245 images
+INFO:root:Class AppleRust: 2567 images
+INFO:root:Class AppleScab: 3245 images
+INFO:root:Class BellPepperBacterialSpot: 3460 images
+INFO:root:Class BellPepperHealthy: 4024 images
+INFO:root:Class CherryHealthy: 3194 images
+INFO:root:Class CherryPowderyMildew: 3158 images
+INFO:root:Class CornCommonRust: 3695 images
+INFO:root:Class CornGrayLeafSpot: 2635 images
+INFO:root:Class CornHealthy: 3488 images
+INFO:root:Class CornNorthernLeafBlight: 3562 images
+INFO:root:Class GrapeBlackMeasles: 3786 images
+INFO:root:Class GrapeBlackRot: 3607 images
+INFO:root:Class GrapeHealthy: 2610 images
+INFO:root:Class GrapeIsariopsisLeafSpot: 3231 images
+INFO:root:Class PeachBacterialSpot: 4596 images
+INFO:root:Class PeachHealthy: 2634 images
+INFO:root:Class PotatoEarlyBlight: 3545 images
+INFO:root:Class PotatoHealthy: 2434 images
+INFO:root:Class PotatoLateBlight: 3531 images
+INFO:root:Class StrawberryHealthy: 2829 images
+INFO:root:Class StrawberryLeafScorch: 3329 images
+INFO:root:Class TomatoBacterialSpot: 4366 images
+INFO:root:Class TomatoEarlyBlight: 3493 images
+INFO:root:Class TomatoHealthy: 4066 images
+INFO:root:Class TomatoLateBlight: 4335 images
+INFO:root:Class TomatoLeafMold: 3397 images
+INFO:root:Class TomatoMosaicVirus: 2667 images
+INFO:root:Class TomatoSeptoriaLeafSpot: 4104 images
+INFO:root:Class TomatoSpiderMites: 3856 images
+INFO:root:Class TomatoTargetSpot: 3690 images
+INFO:root:Class TomatoYellowLeafCurlVirus: 7889 images
+INFO:root:Total images: 118375
+INFO:root:AppleBlackRot: train=2485, val=312, test=310
+INFO:root:AppleHealthy: train=3396, val=425, test=424
+INFO:root:AppleRust: train=2053, val=258, test=256
+INFO:root:AppleScab: train=2596, val=325, test=324
+INFO:root:BellPepperBacterialSpot: train=2768, val=346, test=346
+INFO:root:BellPepperHealthy: train=3219, val=403, test=402
+INFO:root:CherryHealthy: train=2555, val=320, test=319
+INFO:root:CherryPowderyMildew: train=2526, val=317, test=315
+INFO:root:CornCommonRust: train=2956, val=370, test=369
+INFO:root:CornGrayLeafSpot: train=2108, val=264, test=263
+INFO:root:CornHealthy: train=2790, val=350, test=348
+INFO:root:CornNorthernLeafBlight: train=2849, val=357, test=356
+INFO:root:GrapeBlackMeasles: train=3028, val=380, test=378
+INFO:root:GrapeBlackRot: train=2885, val=362, test=360
+INFO:root:GrapeHealthy: train=2088, val=261, test=261
+INFO:root:GrapeIsariopsisLeafSpot: train=2584, val=324, test=323
+INFO:root:PeachBacterialSpot: train=3676, val=461, test=459
+INFO:root:PeachHealthy: train=2107, val=264, test=263
+INFO:root:PotatoEarlyBlight: train=2836, val=355, test=354
+INFO:root:PotatoHealthy: train=1947, val=244, test=243
+INFO:root:PotatoLateBlight: train=2824, val=354, test=353
+INFO:root:StrawberryHealthy: train=2263, val=284, test=282
+INFO:root:StrawberryLeafScorch: train=2663, val=334, test=332
+INFO:root:TomatoBacterialSpot: train=3492, val=438, test=436
+INFO:root:TomatoEarlyBlight: train=2794, val=350, test=349
+INFO:root:TomatoHealthy: train=3252, val=408, test=406
+INFO:root:TomatoLateBlight: train=3468, val=434, test=433
+INFO:root:TomatoLeafMold: train=2717, val=341, test=339
+INFO:root:TomatoMosaicVirus: train=2133, val=268, test=266
+INFO:root:TomatoSeptoriaLeafSpot: train=3283, val=411, test=410
+INFO:root:TomatoSpiderMites: train=3084, val=387, test=385
+INFO:root:TomatoTargetSpot: train=2952, val=369, test=369
+INFO:root:TomatoYellowLeafCurlVirus: train=6311, val=790, test=788
+INFO:root:Training TFRecord saved
+INFO:root:Validation TFRecord saved
+INFO:root:Test TFRecord saved
+INFO:root:Final splits: train=94688, val=11866, test=11821
+INFO:root:Class indices: {'AppleBlackRot': 0, 'AppleHealthy': 1, 'AppleRust': 2, 'AppleScab': 3, 'BellPepperBacterialSpot': 4, 'BellPepperHealthy': 5, 'CherryHealthy': 6, 'CherryPowderyMildew': 7, 'CornCommonRust': 8, 'CornGrayLeafSpot': 9, 'CornHealthy': 10, 'CornNorthernLeafBlight': 11, 'GrapeBlackMeasles': 12, 'GrapeBlackRot': 13, 'GrapeHealthy': 14, 'GrapeIsariopsisLeafSpot': 15, 'PeachBacterialSpot': 16, 'PeachHealthy': 17, 'PotatoEarlyBlight': 18, 'PotatoHealthy': 19, 'PotatoLateBlight': 20, 'StrawberryHealthy': 21, 'StrawberryLeafScorch': 22, 'TomatoBacterialSpot': 23, 'TomatoEarlyBlight': 24, 'TomatoHealthy': 25, 'TomatoLateBlight': 26, 'TomatoLeafMold': 27, 'TomatoMosaicVirus': 28, 'TomatoSeptoriaLeafSpot': 29, 'TomatoSpiderMites': 30, 'TomatoTargetSpot': 31, 'TomatoYellowLeafCurlVirus': 32}
+INFO:root:Preprocessing complete
